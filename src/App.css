@@ -1,3 +1,25 @@
+:root{
+  --primary-color: #252323;
+  --secondary-color: #70798c;
+  --tertiary-color: #f5f1ed;
+  
+}
+.HeaderColor{
+  background-color: var(--primary-color);
+}
+.FooterColor{
+  background-color: var(--secondary-color);
+}
+.BackgroundColor{
+  background-color: var(--tertiary-color);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Lexend Deca, sans-serif;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +58,4 @@
     transform: rotate(360deg);
   }
 }
+
