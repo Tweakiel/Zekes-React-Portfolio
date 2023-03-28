@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 const ContactMe = () => {
   //i have a form with name, email, message
