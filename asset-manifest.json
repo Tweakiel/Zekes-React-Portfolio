@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zekes-React-Portfolio/static/css/main.4b78f6de.css",
+    "main.js": "/Zekes-React-Portfolio/static/js/main.20c389c7.js",
+    "static/js/787.b44b5c06.chunk.js": "/Zekes-React-Portfolio/static/js/787.b44b5c06.chunk.js",
+    "index.html": "/Zekes-React-Portfolio/index.html",
+    "main.4b78f6de.css.map": "/Zekes-React-Portfolio/static/css/main.4b78f6de.css.map",
+    "main.20c389c7.js.map": "/Zekes-React-Portfolio/static/js/main.20c389c7.js.map",
+    "787.b44b5c06.chunk.js.map": "/Zekes-React-Portfolio/static/js/787.b44b5c06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b78f6de.css",
+    "static/js/main.20c389c7.js"
+  ]
+}
